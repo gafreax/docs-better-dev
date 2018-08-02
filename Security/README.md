@@ -38,3 +38,7 @@ do:
     - Snyk
 
 Have always in mind: https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
+
+### References
+
+http://expressjs.com/it/advanced/best-practice-security.html
