@@ -43,16 +43,17 @@ Have always in mind: https://www.owasp.org/index.php/Web_Application_Security_Te
 
 http://expressjs.com/it/advanced/best-practice-security.html
 
-
 ## Best pratice
 
 ### How to manager input output
 
- - use sanitize-html lib to manage html and print out without html
- - use dompurifyu to managhe html when you must render html
-
+- use sanitize-html lib to manage html and print out without html
+- use dompurifyu to managhe html when you must render html
 
 ### References
+
 - https://www.npmjs.com/package/sanitize-htm
 - https://github.com/cure53/DOMPurify/tree/master/demos#what-is-this
 
+// TODO:
+https://www.html.it/13/11/2018/xsstrike-xss-detection-open-source/
